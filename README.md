@@ -16,7 +16,7 @@ O codigo é de um funcionamento simples:
      Dentro do for a variavel letra é um numero inteiro igual a posição que a letra ou indice ocupam dentro dos vetores AlfabetoeNumero ou Morse, por fim os indices da variavel traduzida são substituidos de nulo para o valor correspondente a letra dentro dos respectivos vetores e é retornada.
 
 2. **Saida de dados**:
-     De volta a função traducao, traduzida recebe o retorno das respectivas funções chamadas e torna-se um vetor. Por fim, traduzida é revertida em uma str, caso a tradução feita tenha sido do alfabeto latino para morse, é adicionado um espaço entre cada indice ao serem revertidos, caso contrario, não há espaços entre cada indice (Ex:   ['a', 'b', 'c'] -> '.- -... -.-.' ou ['.-', '-...', '-.-.'] -> "abc"), após isso é feito um print da variavel traduzida.
+     De volta a função traducao, traduzida recebe o retorno das respectivas funções chamadas e torna-se um vetor. Por fim, traduzida é revertida em uma str, caso a tradução feita tenha sido do alfabeto latino para morse, é adicionado um espaço entre cada indice ao serem revertidos, caso contrario, não há espaços entre cada indice (Ex:       ['a', 'b', 'c'] -> '.- -... -.-.' ou ['.-', '-...', '-.-.'] -> "abc"), após isso é feito um print da variavel traduzida.
 
 #Como rodar o programa
 
